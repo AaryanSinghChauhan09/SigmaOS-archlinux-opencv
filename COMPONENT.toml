@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-opencv"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-opencv component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]

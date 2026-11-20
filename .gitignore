@@ -1,2 +1,6 @@
 ô±ÿOìñ@ïT¶m–y›ò7ó0n/target/
 /target
+# SigmaOS .gitignore policy
+# *.md files (except README.md) are kept in GitHub Wikis, not main branch
+# This keeps repositories clean and follows the Omarchy Linux model
+
